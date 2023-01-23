@@ -67,7 +67,8 @@
   },
   "target": "web",
   "dependencies": {
-    "animejs": "^1.1.3",
-    "eventemitter3": "^4.0.7"
+    "animejs": "^3.2.1",
+    "eventemitter3": "^4.0.7",
+    "npm": "^9.3.1"
   }
 }
